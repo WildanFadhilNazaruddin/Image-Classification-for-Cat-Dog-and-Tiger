@@ -1,0 +1,6 @@
+tensorflow
+tensorflowjs
+tensorflow-lite
+jupyter
+numpy
+pandas
