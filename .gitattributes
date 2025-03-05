@@ -1,5 +1,2 @@
 submission/tflite/model.tflite filter=lfs diff=lfs merge=lfs -text
 submission/saved_model/variables/variables.data-00000-of-00001 filter=lfs diff=lfs merge=lfs -text
-/workspaces/Image-Classification-for-Cat-Dog-and-Tiger/submission/saved_model filter=lfs diff=lfs merge=lfs -text
-/workspaces/Image-Classification-for-Cat-Dog-and-Tiger/submission/tfjs_model filter=lfs diff=lfs merge=lfs -text
-/workspaces/Image-Classification-for-Cat-Dog-and-Tiger/submission/tflite filter=lfs diff=lfs merge=lfs -text
